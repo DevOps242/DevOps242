@@ -1,10 +1,10 @@
 ## Hi my name is Akeem Palmer.
 
-### A little about myself.
+### A little about myself:
 > I am an Application Developer and a Student!
 - I'm currently working with PHP, MySQL and Linux full time.
 - I'm currently on my 2nd year in Lakehead University, studying HBSc Computer Science.
-- Some of my favotire programming languages are Python, PHP, C++ and JavaScript.
+- Some of my favorite programming languages are Python, PHP, C++ and JavaScript.
 - Fun Fact: I love to play musical instruments, baking and learning.
 
 ### Connect with me: 
