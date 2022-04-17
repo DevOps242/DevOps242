@@ -1,6 +1,7 @@
-### Hi my name is Akeem Palmer.
+## Hi my name is Akeem Palmer.
 
-## I am an Application Developer and a Student!
+### A little about myself.
+> I am an Application Developer and a Student!
 - I'm currently working with PHP, MySQL and Linux full time.
 - I'm currently on my 2nd year in Lakehead University, studying HBSc Computer Science.
 - Some of my favotire programming languages are Python, PHP, C++ and JavaScript.
@@ -12,6 +13,7 @@
 [<img align="left" alt="DevOps242" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="DevOps242" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools: 
@@ -33,6 +35,7 @@
 
 
 
+<br />
 <br />
 
 ### GitHub Stats:
