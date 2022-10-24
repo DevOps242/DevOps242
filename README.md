@@ -43,7 +43,7 @@
 
 
 
-[website]: https://akeempalmer.com
+
 [twitter]: https://twitter.com/Kyle_Engineerx
 [instagram]: https://www.instagram.com/kyle_engineerx/
 [linkedin]: https://www.linkedin.com/in/akeem-palmer-8b30a3118/
