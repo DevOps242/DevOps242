@@ -2,9 +2,9 @@
 
 ### A little about myself:
 > A Software Developer and a Student!
-- I'm currently on my 3rd year in Lakehead University, studying HBSc Computer Science.
-- Some of my favorite programming languages are Python, PHP, C++ and JavaScript.
-- Fun Fact: I love to play musical instruments, I also love to bake and learn.
+- I'm in my 3rd year at Lakehead University, studying HBSc Computer Science.
+- Some of my favorite programming languages are PHP, C++ and JavaScript.
+- Fun Fact: I love to play musical instruments, and I also love to bake and learn.
 
 ### Connect with me: 
 [<img align="left" alt="DevOps242" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
